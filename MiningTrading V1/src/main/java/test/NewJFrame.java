@@ -376,7 +376,7 @@ public class NewJFrame extends javax.swing.JFrame {
     
         // Ceate ApiCredentials with ApiKey and Secret from bittrex.com
     ApiCredentials credentials = new ApiCredentials( 
-      "623e28ccf9ce4456ad85ff49fe6c03ba", 
+      "XXX", 
       "9d4ddb7317724a7a97876f671af7bb58" 
     ); 
     
